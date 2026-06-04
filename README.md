@@ -19,10 +19,11 @@
 4. Cell References
 5. Excel Functions
 6. Date/Time Functions
-7. Text Functions
-8. Financial Functions
-9. Logical Functions
-10. Lookup Functions
-11. Data Validation
-12. Troubleshooting
-13. Assignment
+7. Text Functions <h3>completed till Here<h3/>
+
+9. Financial Functions
+10. Logical Functions
+11. Lookup Functions
+12. Data Validation
+13. Troubleshooting
+14. Assignment
