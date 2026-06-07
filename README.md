@@ -33,6 +33,6 @@
 3. Data Sorting
 4. Data filtering
 5. Tables
-6. Charts
+6. Charts <h3> done till here<h3/>
 7. Assignment
 8. 
