@@ -27,12 +27,17 @@
 12. Troubleshooting
 13. Assignment
 
-## Working with Data
+## Working with Data Module 4
 1. Working with data
 2. Freezing Options
 3. Data Sorting
 4. Data filtering
 5. Tables
-6. Charts <h3> done till here<h3/>
+6. Charts
 7. Assignment
-8. 
+
+## Advance Concepts
+1. Conditional Formatting
+2. What-if Analysis
+3. Pivot Tables
+
