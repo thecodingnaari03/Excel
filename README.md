@@ -41,3 +41,8 @@
 2. What-if Analysis
 3. Pivot Tables
 
+## Integrating AI in Excel
+1. Built-in Excel AI tools
+2. Getting Started with prompting
+
+
